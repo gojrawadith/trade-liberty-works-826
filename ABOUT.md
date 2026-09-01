@@ -1,0 +1,5 @@
+# About trade-liberty-works-826
+
+Agent toolkit experiments for code review and documentation.
+
+This project is maintained as a practical workspace for development notes, automation helpers, and source code examples.
